@@ -13,9 +13,8 @@ This project is a responsive login page built using HTML and CSS. The design ada
 
 Here’s a quick look at what the login page looks like:
 
-### ScreemShot![FireShot Capture 008 - Document - ]
-
-(https://github.com/user-attachments/assets/42406309-7281-40c3-b198-b19d9857adf6)
+### ScreemShot
+https://github.com/user-attachments/assets/42406309-7281-40c3-b198-b19d9857adf6
 
 
 
